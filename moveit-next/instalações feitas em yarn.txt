@@ -1,0 +1,3 @@
+yarn add js-cookie
+
+yarn add @types/js-cookie -D
